@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shine-scraper",
+  "private_key_id": "54e364251f3de0bf147c37cd1a04d1dda2e34a5b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDNxKdhkBUcXNkm\nebYKal0IIafg8sz3xbKHnEROYeP/2BT8KrBpkXcC0pdFHkY8qmWonGoKcivoMaq7\nxx7CbzTsow1k5RJ+h/ULUSB7LlvjF0dMb8yftRS3wR1oRyyFeZOS1seVzWNKAG61\nqsTPSQww5mqmwueK6mcYU2VzAdqAgJpiUjLpNIJGW9hLgw/wZY1Wxsfsps3R+jEa\npDQsttlh2sFHtgz69mkYcXtYCpjnqH/M83kqADwyeKl1Mzmkn34rRKUK4ZU6mN9e\nRcGyV2XjI+Mne42CApMmiZM828jWavQxNL1Oz6naMzP5fcddG5GsIBKTaFaYsrOZ\nq2RbmMd9AgMBAAECggEAHAKygQbKw5BQGdC6WzNHdB1AwSUhickRGIIej5z7xeQg\nVy4TKGEeQPVx6igeNOaX7W/9b2vuANm3UtXe9hDgCiaCuEKxVdAkJ2TlIF+bL+Vc\nq1G8xTDdSnZbY8qXNkQ/4TP4+gd6MKSxGBclsMyngDCdlr3ezyZBin+FG+FwtnU3\nM33iSdPIbmqrzxMp+2IVjapTPsDCL+ALWhMr6fZrpmB5AKo7djZGlmfEXY6IP1mn\nBHhxr7XunzHVJCSoiQ4+epzv0MPd/+Vxdc49i8Il4Owi4DTSza78zsr8Fitt/uMc\nJVE9LZ1zBWDE/1WT+GOh48GccM6n25+cw7jqjl/pcQKBgQD4zSWqeBonJYyYn91z\nJ/0AooTO3XfNRtyYJ29117GitS80xlmatDb8Ec1CtfC2ubC/nVmD5AUAH6bx4716\nOkDpMWTZpDGdm7SMijvDUUHEuCl3+FfXdAH4m6WtqO22R9gecBwAbU1kHv4w5vKL\n9I9BJr039lGeEenuALt6/l2kCwKBgQDTuMNhdnn69H3X5Yaq8U6LQeaoVlkF9Uzy\nnBdhBVVmNY/niEUam/EkMmuXyXbhg2zWAovQ/4RK9nSLIScG1i8TcLB5K0c1Jm0Q\nvGcZhmWpWBFN3evhI/Ne4b9GiOL45O8IK05Opb9RUc5Kk/szqV9eqBpEt3nfXzMz\ndkNoJB0vlwKBgQCKO5C90dTWAyrGcavcG0+aVrFrLekuCDzv3Jk05A4x1HDR5ZJL\nPe1+x3U/p06Cd1EYZRgjC0Er/GoI4vuXOV5vMZ5SvcNDSgtaOkNSFYdxANEpcrV7\nY1zk/7VhcwX/zJLq9mbYZeIlyoJ4MRh5Yftlu1xOB3D5XgKW1ZlUkJb+WQKBgQCI\nAcThMy6g27aLnlKoNWNzad42fWGqxi2sHEGYfciiY/4RiiR6N3rs+cbMNws7SyX7\nRJ90nu/pB/FN/voHFkgfgOCctgSETC779Ut1xjRAWOak0s7YTjPk27f4I69KnCZB\nZTBkrWz9XEPc/Lr+MOum7u4Q/pw3tfw6LtqWZ7yn+QKBgQCiRiYN7VLNhfxCO+2Y\n7z8eXCm3WJuWWMnK3f2Xfj9cxCnjJVAn7WjGBC+qteJi3+QjlA+f5g1X6C4WVx76\nVr7tELJ3tjyZX2YSqacq2yZj+Nnq4eHSeS7BKrRHHWFo8qFjh5Qsx6P/pHoTehav\nTToQLG7jpvR+p/6UxQXAbHjwWA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "shine-scraper@shine-scraper.iam.gserviceaccount.com",
+  "client_id": "110103905918910997798",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shine-scraper%40shine-scraper.iam.gserviceaccount.com"
+}
